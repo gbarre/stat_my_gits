@@ -25,12 +25,7 @@ get_git_repo "${gitstats}" git://github.com/hoxu/gitstats.git
 # List of repos
 repos=$(curl -s -u "${client_id}:${client_secret}" 'https://api.github.com/user/repos' | jq --raw-output '.[]["name"]')
 
-index="<html>
-  <head>
-    <title>Stat my Gits</title>
-  </head>
-  <body>
-    <ul>
+index="## Links to stats
 "
 
 # Do the job !
@@ -48,13 +43,7 @@ do
   ${gitstats}/gitstats "${gits}/${repo}" "${stats}/${repo}"
 
   index="${index}
-      <li><a href='./${repo}/index.html'>${repo}</a></li>
-"
+* [${repo}](./stats/${repo}/index.html)"
 done
 
-index="${index}
-    </ul>
-  </body>
-</head>"
-
-echo "${index}" > "${root}README.md"
+echo "${index}" > "${root}/README.md"
