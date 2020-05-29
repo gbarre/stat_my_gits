@@ -1,5 +1,6 @@
 #!/bin/sh
 
+start=$(($(date +%s%N)/1000000))
 client_id=$1
 client_secret=$2
 
@@ -46,4 +47,11 @@ do
 * [${repo}](./stats/${repo}/index.html)"
 done
 
+end=$(($(date +%s%N)/1000000))
+duration=$((${end}-${start}))
+s=$(((${duration}/1000)%60))
+m=$(((${duration}/(1000*60))%60))
+index="${index}
+
+Generated on $(date '+%m/%e/%Y at %H:%M:%S') in ${m} min, ${s} seconds."
 echo "${index}" > "${root}/README.md"
