@@ -57,7 +57,4 @@ index="${index}
   </body>
 </head>"
 
-echo "${index}" > "README.md"
-
-echo "Open ${stats}/index.html to see all stats."
-echo
+echo "${index}" > "${root}README.md"
