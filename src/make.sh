@@ -1,5 +1,6 @@
 #!/bin/sh
 
+cd "${0%/*}"
 . ./.env
 ./build.sh $USER $TOKEN
 git add .
