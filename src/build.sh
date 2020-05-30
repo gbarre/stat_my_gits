@@ -26,7 +26,11 @@ get_git_repo "${gitstats}" git://github.com/hoxu/gitstats.git
 # List of repos
 repos=$(curl -s -u "${client_id}:${client_secret}" 'https://api.github.com/user/repos' | jq --raw-output '.[]["name"]')
 
-index="## Links to stats
+index="# Stat my gits
+
+This repo is an automated stats builder for all my github repositories.
+
+## Links to stats
 "
 
 # Do the job !
@@ -51,7 +55,13 @@ end=$(($(date +%s%N)/1000000))
 duration=$((${end}-${start}))
 s=$(((${duration}/1000)%60))
 m=$(((${duration}/(1000*60))%60))
+
 index="${index}
 
-Generated on $(date '+%m/%e/%Y at %H:%M:%S') in ${m} min, ${s} seconds."
+Generated on $(date '+%m/%e/%Y at %H:%M:%S') in ${m} min, ${s} seconds.
+
+## Install procedure
+
+[See instalation procedure](./src/install.md)"
+
 echo "${index}" > "${root}/README.md"

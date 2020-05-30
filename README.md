@@ -1,3 +1,7 @@
+# Stat my gits
+
+This repo is an automated stats builder for all my github repositories.
+
 ## Links to stats
 
 * [ansible-home](./stats/ansible-home/index.html)
@@ -23,4 +27,8 @@
 * [xia_mac_installer](./stats/xia_mac_installer/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
 
-Generated on 05/29/2020 at 19:07:29 in 0 min, 28 seconds.
+Generated on 05/30/2020 at 11:20:16 in 1 min, 12 seconds.
+
+## Install procedure
+
+[See instalation procedure](./src/install.md)
