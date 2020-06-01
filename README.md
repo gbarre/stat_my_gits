@@ -16,18 +16,18 @@ This repo is an automated stats builder for all my github repositories.
 * [pense_bete](./stats/pense_bete/index.html)
 * [prometheus-exporters](./stats/prometheus-exporters/index.html)
 * [Quantization](./stats/Quantization/index.html)
-* [SchoolManager](./stats/SchoolManager/index.html)
 * [stat_my_gits](./stats/stat_my_gits/index.html)
 * [wekanBoards](./stats/wekanBoards/index.html)
 * [wekanBoardsiOS](./stats/wekanBoardsiOS/index.html)
 * [WekaniOS](./stats/WekaniOS/index.html)
 * [xia](./stats/xia/index.html)
+* [xia-online](./stats/xia-online/index.html)
 * [xiaExpressAndroid](./stats/xiaExpressAndroid/index.html)
 * [xiaExpressiOS](./stats/xiaExpressiOS/index.html)
 * [xia_mac_installer](./stats/xia_mac_installer/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
 
-Generated on 06/ 1/2020 at 12:43:16 in 1 min, 15 seconds.
+Generated on 06/ 2/2020 at 00:43:30 in 1 min, 28 seconds.
 
 ## Install procedure
 
