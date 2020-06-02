@@ -6,7 +6,6 @@ This repo is an automated stats builder for all my github repositories.
 
 * [ansible-home](./stats/ansible-home/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
-* [dlink-backup](./stats/dlink-backup/index.html)
 * [docker-images](./stats/docker-images/index.html)
 * [Master-Mind-iOS](./stats/Master-Mind-iOS/index.html)
 * [multi-docker](./stats/multi-docker/index.html)
@@ -20,14 +19,13 @@ This repo is an automated stats builder for all my github repositories.
 * [wekanBoards](./stats/wekanBoards/index.html)
 * [wekanBoardsiOS](./stats/wekanBoardsiOS/index.html)
 * [WekaniOS](./stats/WekaniOS/index.html)
-* [xia](./stats/xia/index.html)
 * [xia-online](./stats/xia-online/index.html)
 * [xiaExpressAndroid](./stats/xiaExpressAndroid/index.html)
 * [xiaExpressiOS](./stats/xiaExpressiOS/index.html)
 * [xia_mac_installer](./stats/xia_mac_installer/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
 
-Generated on 06/ 2/2020 at 00:43:30 in 1 min, 28 seconds.
+Generated on 06/ 2/2020 at 12:43:02 in 1 min, 0 seconds.
 
 ## Install procedure
 
