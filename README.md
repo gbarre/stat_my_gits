@@ -15,6 +15,7 @@ This repo is an automated stats builder for all my github repositories.
 * [pense_bete](./stats/pense_bete/index.html)
 * [prometheus-exporters](./stats/prometheus-exporters/index.html)
 * [Quantization](./stats/Quantization/index.html)
+* [sqct](./stats/sqct/index.html)
 * [stat_my_gits](./stats/stat_my_gits/index.html)
 * [wekanBoards](./stats/wekanBoards/index.html)
 * [wekanBoardsiOS](./stats/wekanBoardsiOS/index.html)
@@ -25,7 +26,7 @@ This repo is an automated stats builder for all my github repositories.
 * [xia_mac_installer](./stats/xia_mac_installer/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
 
-Generated on 11/ 3/2020 at 00:43:07 in 1 min, 6 seconds.
+Generated on 11/ 3/2020 at 12:43:21 in 1 min, 20 seconds.
 
 ## Install procedure
 
