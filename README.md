@@ -26,7 +26,7 @@ This repo is an automated stats builder for all my github repositories.
 * [xia_mac_installer](./stats/xia_mac_installer/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
 
-Generated on 12/ 6/2020 at 12:43:19 in 1 min, 18 seconds.
+Generated on 12/ 7/2020 at 00:43:15 in 1 min, 13 seconds.
 
 ## Install procedure
 
