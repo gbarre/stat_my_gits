@@ -17,6 +17,7 @@ This repo is an automated stats builder for all my github repositories.
 * [Quantization](./stats/Quantization/index.html)
 * [sqct](./stats/sqct/index.html)
 * [stat_my_gits](./stats/stat_my_gits/index.html)
+* [vscode-dsi-package](./stats/vscode-dsi-package/index.html)
 * [wekanBoards](./stats/wekanBoards/index.html)
 * [wekanBoardsiOS](./stats/wekanBoardsiOS/index.html)
 * [WekaniOS](./stats/WekaniOS/index.html)
@@ -26,7 +27,7 @@ This repo is an automated stats builder for all my github repositories.
 * [xia_mac_installer](./stats/xia_mac_installer/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
 
-Generated on 12/ 9/2020 at 12:43:08 in 1 min, 6 seconds.
+Generated on 12/10/2020 at 00:43:08 in 1 min, 6 seconds.
 
 ## Install procedure
 
