@@ -6,6 +6,7 @@ This repo is an automated stats builder for all my github repositories.
 
 * [ansible-home](./stats/ansible-home/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
+* [chuck](./stats/chuck/index.html)
 * [docker-images](./stats/docker-images/index.html)
 * [LLDVELH](./stats/LLDVELH/index.html)
 * [Master-Mind-iOS](./stats/Master-Mind-iOS/index.html)
@@ -28,7 +29,7 @@ This repo is an automated stats builder for all my github repositories.
 * [xia_mac_installer](./stats/xia_mac_installer/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
 
-Generated on 05/12/2021 at 00:42:58 in 0 min, 56 seconds.
+Generated on 05/12/2021 at 12:43:00 in 0 min, 58 seconds.
 
 ## Install procedure
 
