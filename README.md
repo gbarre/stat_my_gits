@@ -8,6 +8,8 @@ This repo is an automated stats builder for all my github repositories.
 * [capsule-api](./stats/capsule-api/index.html)
 * [chuck](./stats/chuck/index.html)
 * [docker-images](./stats/docker-images/index.html)
+* [k8s-nodes-update](./stats/k8s-nodes-update/index.html)
+* [kubeconfig](./stats/kubeconfig/index.html)
 * [LLDVELH](./stats/LLDVELH/index.html)
 * [Master-Mind-iOS](./stats/Master-Mind-iOS/index.html)
 * [multi-docker](./stats/multi-docker/index.html)
@@ -19,6 +21,7 @@ This repo is an automated stats builder for all my github repositories.
 * [Quantization](./stats/Quantization/index.html)
 * [sqct](./stats/sqct/index.html)
 * [stat_my_gits](./stats/stat_my_gits/index.html)
+* [terminator-split](./stats/terminator-split/index.html)
 * [vscode-dsi-package](./stats/vscode-dsi-package/index.html)
 * [wekanBoards](./stats/wekanBoards/index.html)
 * [wekanBoardsiOS](./stats/wekanBoardsiOS/index.html)
@@ -29,7 +32,7 @@ This repo is an automated stats builder for all my github repositories.
 * [xia_mac_installer](./stats/xia_mac_installer/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
 
-Generated on 06/18/2021 at 12:43:00 in 0 min, 59 seconds.
+Generated on 06/19/2021 at 00:43:07 in 1 min, 5 seconds.
 
 ## Install procedure
 
