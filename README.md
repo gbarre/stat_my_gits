@@ -17,6 +17,7 @@ This repo is an automated stats builder for all my github repositories.
 * [MyScripts](./stats/MyScripts/index.html)
 * [nut_exporter](./stats/nut_exporter/index.html)
 * [pense_bete](./stats/pense_bete/index.html)
+* [piCO2-exporter](./stats/piCO2-exporter/index.html)
 * [prometheus-exporters](./stats/prometheus-exporters/index.html)
 * [Quantization](./stats/Quantization/index.html)
 * [sqct](./stats/sqct/index.html)
@@ -32,7 +33,7 @@ This repo is an automated stats builder for all my github repositories.
 * [xia_mac_installer](./stats/xia_mac_installer/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
 
-Generated on 01/ 8/2022 at 12:42:10 in 0 min, 9 seconds.
+Generated on 01/ 9/2022 at 00:42:10 in 0 min, 9 seconds.
 
 ## Install procedure
 
