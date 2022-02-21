@@ -5,6 +5,7 @@ This repo is an automated stats builder for all my github repositories.
 ## Links to stats
 
 * [ansible-home](./stats/ansible-home/index.html)
+* [b-akaLTE](./stats/b-akaLTE/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
 * [chuck](./stats/chuck/index.html)
 * [docker-images](./stats/docker-images/index.html)
@@ -33,7 +34,7 @@ This repo is an automated stats builder for all my github repositories.
 * [xia_mac_installer](./stats/xia_mac_installer/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
 
-Generated on 02/21/2022 at 12:42:11 in 0 min, 9 seconds.
+Generated on 02/22/2022 at 00:42:13 in 0 min, 12 seconds.
 
 ## Install procedure
 
