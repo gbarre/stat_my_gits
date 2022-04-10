@@ -21,6 +21,7 @@ This repo is an automated stats builder for all my github repositories.
 * [piCO2-exporter](./stats/piCO2-exporter/index.html)
 * [prometheus-exporters](./stats/prometheus-exporters/index.html)
 * [Quantization](./stats/Quantization/index.html)
+* [Raspberry-PICO-projects](./stats/Raspberry-PICO-projects/index.html)
 * [sqct](./stats/sqct/index.html)
 * [stat_my_gits](./stats/stat_my_gits/index.html)
 * [terminator-split](./stats/terminator-split/index.html)
@@ -34,7 +35,7 @@ This repo is an automated stats builder for all my github repositories.
 * [xia_mac_installer](./stats/xia_mac_installer/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
 
-Generated on 04/10/2022 at 12:42:10 in 0 min, 9 seconds.
+Generated on 04/11/2022 at 00:42:11 in 0 min, 10 seconds.
 
 ## Install procedure
 
