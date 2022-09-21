@@ -21,7 +21,7 @@ get_git_repo() {
 }
 
 # Get gitstats
-get_git_repo "${gitstats}" git://github.com/hoxu/gitstats.git
+get_git_repo "${gitstats}" git@github.com:hoxu/gitstats.git
 
 # List of repos
 repos=$(curl -s -u "${client_id}:${client_secret}" 'https://api.github.com/user/repos' | jq --raw-output '.[]["name"]')
