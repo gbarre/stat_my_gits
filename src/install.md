@@ -7,4 +7,3 @@
 ## Usage
 
 Run build.sh : `./build.sh <github-username> <github-token>`
-
