@@ -10,6 +10,7 @@ This repo is an automated stats builder for all my github repositories.
 * [chuck](./stats/chuck/index.html)
 * [docker-images](./stats/docker-images/index.html)
 * [gbarre](./stats/gbarre/index.html)
+* [hall-exporter](./stats/hall-exporter/index.html)
 * [k8s-nodes-update](./stats/k8s-nodes-update/index.html)
 * [kubeconfig](./stats/kubeconfig/index.html)
 * [LLDVELH](./stats/LLDVELH/index.html)
@@ -33,9 +34,8 @@ This repo is an automated stats builder for all my github repositories.
 * [xia-online](./stats/xia-online/index.html)
 * [xiaExpressAndroid](./stats/xiaExpressAndroid/index.html)
 * [xiaExpressiOS](./stats/xiaExpressiOS/index.html)
-* [xia_mac_installer](./stats/xia_mac_installer/index.html)
 
-Generated on 12/17/2022 at 12:43:47 in 1 min, 46 seconds.
+Generated on 12/18/2022 at 00:43:48 in 1 min, 46 seconds.
 
 ## Install procedure
 
