@@ -26,6 +26,7 @@ This repo is an automated stats builder for all my github repositories.
 * [Raspberry-PICO-projects](./stats/Raspberry-PICO-projects/index.html)
 * [sqct](./stats/sqct/index.html)
 * [stat_my_gits](./stats/stat_my_gits/index.html)
+* [teleinfo-linky-with-raspberry](./stats/teleinfo-linky-with-raspberry/index.html)
 * [terminator-split](./stats/terminator-split/index.html)
 * [vscode-dsi-package](./stats/vscode-dsi-package/index.html)
 * [wekanBoards](./stats/wekanBoards/index.html)
@@ -33,9 +34,8 @@ This repo is an automated stats builder for all my github repositories.
 * [WekaniOS](./stats/WekaniOS/index.html)
 * [xia-online](./stats/xia-online/index.html)
 * [xiaExpressAndroid](./stats/xiaExpressAndroid/index.html)
-* [xiaExpressiOS](./stats/xiaExpressiOS/index.html)
 
-Generated on 01/31/2023 at 00:43:14 in 1 min, 12 seconds.
+Generated on 01/31/2023 at 12:43:22 in 1 min, 21 seconds.
 
 ## Install procedure
 
