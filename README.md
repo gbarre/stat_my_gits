@@ -30,12 +30,12 @@ This repo is an automated stats builder for all my github repositories.
 * [stat_my_gits](./stats/stat_my_gits/index.html)
 * [teleinfo-linky-with-raspberry](./stats/teleinfo-linky-with-raspberry/index.html)
 * [terminator-split](./stats/terminator-split/index.html)
+* [ulauncher-terminator](./stats/ulauncher-terminator/index.html)
 * [vscode-dsi-package](./stats/vscode-dsi-package/index.html)
 * [wekanBoards](./stats/wekanBoards/index.html)
 * [wekanBoardsiOS](./stats/wekanBoardsiOS/index.html)
-* [WekaniOS](./stats/WekaniOS/index.html)
 
-Generated on 04/ 2/2025 at 00:42:52 in 0 min, 50 seconds.
+Generated on 04/ 2/2025 at 12:42:51 in 0 min, 50 seconds.
 
 ## Install procedure
 
