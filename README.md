@@ -14,6 +14,7 @@ This repo is an automated stats builder for all my github repositories.
 * [hall-exporter](./stats/hall-exporter/index.html)
 * [k8s-nodes-update](./stats/k8s-nodes-update/index.html)
 * [kubeconfig](./stats/kubeconfig/index.html)
+* [libreoffice-recent](./stats/libreoffice-recent/index.html)
 * [LLDVELH](./stats/LLDVELH/index.html)
 * [Master-Mind-iOS](./stats/Master-Mind-iOS/index.html)
 * [multi-docker](./stats/multi-docker/index.html)
@@ -33,9 +34,8 @@ This repo is an automated stats builder for all my github repositories.
 * [ulauncher-terminator](./stats/ulauncher-terminator/index.html)
 * [vscode-dsi-package](./stats/vscode-dsi-package/index.html)
 * [wekanBoards](./stats/wekanBoards/index.html)
-* [wekanBoardsiOS](./stats/wekanBoardsiOS/index.html)
 
-Generated on 04/10/2025 at 12:42:52 in 0 min, 51 seconds.
+Generated on 04/11/2025 at 00:42:52 in 0 min, 51 seconds.
 
 ## Install procedure
 
