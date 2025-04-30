@@ -9,6 +9,7 @@ This repo is an automated stats builder for all my github repositories.
 * [b-akaLTE](./stats/b-akaLTE/index.html)
 * [capsule-api](./stats/capsule-api/index.html)
 * [chuck](./stats/chuck/index.html)
+* [delete_all_messages](./stats/delete_all_messages/index.html)
 * [docker-images](./stats/docker-images/index.html)
 * [gbarre](./stats/gbarre/index.html)
 * [hall-exporter](./stats/hall-exporter/index.html)
@@ -33,9 +34,8 @@ This repo is an automated stats builder for all my github repositories.
 * [terminator-split](./stats/terminator-split/index.html)
 * [ulauncher-terminator](./stats/ulauncher-terminator/index.html)
 * [vscode-dsi-package](./stats/vscode-dsi-package/index.html)
-* [wekanBoards](./stats/wekanBoards/index.html)
 
-Generated on 04/30/2025 at 12:43:00 in 0 min, 59 seconds.
+Generated on 05/ 1/2025 at 00:42:51 in 0 min, 50 seconds.
 
 ## Install procedure
 
