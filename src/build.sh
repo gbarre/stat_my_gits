@@ -11,10 +11,10 @@ venv="${HOME}/venv"
 
 # Activate virtual environment
 if [ ! -d "${venv}" ]; then
-  . "${venv}/bin/activate"
-else
   echo "Virtual environment not found at ${venv}. Please create it first."
   exit 1
+else
+  . "${venv}/bin/activate"
 fi
 
 get_git_repo() {
