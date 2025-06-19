@@ -2,7 +2,11 @@
 
 This repo is an automated stats builder for all my github repositories.
 
-## Links to stats
+## See the stats
+
+<https://gbarre.github.io/stat_my_gits/>
+
+## Links to repositories
 
 * [ansible-home](./stats/ansible-home/index.html)
 * [arbitools](./stats/arbitools/index.html)
@@ -35,7 +39,7 @@ This repo is an automated stats builder for all my github repositories.
 * [ulauncher-terminator](./stats/ulauncher-terminator/index.html)
 * [vscode-dsi-package](./stats/vscode-dsi-package/index.html)
 
-Generated on 06/19/2025 at 12:42:52 in 0 min, 50 seconds.
+Generated on 06/19/2025 at 17:17:09 in 1 min, 47 seconds.
 
 ## Install procedure
 
