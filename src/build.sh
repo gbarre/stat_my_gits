@@ -6,8 +6,16 @@ client_secret=$2
 
 root=$(cd "${0%/*}/.."; pwd)
 gits="${root}/gits"
-gitstats="${root}/gitstats"
 stats="${root}/stats"
+venv="${HOME}/venv"
+
+# Activate virtual environment
+if [ ! -d "${venv}" ]; then
+  . "${venv}/bin/activate"
+else
+  echo "Virtual environment not found at ${venv}. Please create it first."
+  exit 1
+fi
 
 get_git_repo() {
   dir="$1"
@@ -20,9 +28,6 @@ get_git_repo() {
   fi
 }
 
-# Get gitstats
-get_git_repo "${gitstats}" git@github.com:hoxu/gitstats.git
-
 # List of repos
 repos=$(curl -s -u "${client_id}:${client_secret}" 'https://api.github.com/user/repos' | jq --raw-output '.[]["name"]')
 
@@ -30,7 +35,11 @@ index="# Stat my gits
 
 This repo is an automated stats builder for all my github repositories.
 
-## Links to stats
+## See the stats
+
+<https://gbarre.github.io/stat_my_gits/>
+
+## Links to repositories
 "
 
 # Do the job !
@@ -45,7 +54,7 @@ do
 
   get_git_repo "${gits}/${repo}" "https://${client_secret}@github.com/${client_id}/${repo}.git"
 
-  ${gitstats}/gitstats "${gits}/${repo}" "${stats}/${repo}"
+  gitstats "${gits}/${repo}" "${stats}/${repo}"
 
   index="${index}
 * [${repo}](./stats/${repo}/index.html)"
